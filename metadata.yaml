@@ -1,5 +1,5 @@
 _repo: The-Comedy-of-Errors_2239
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -33,5 +33,6 @@ subjects:
 - !lcsh 'Brothers -- Drama'
 - !lcsh 'Mistaken identity -- Drama'
 - !lcsh 'Greece -- Drama'
+- GITenberg
 title: The Comedy of Errors
 url: http://www.gutenberg.org/ebooks/2239
